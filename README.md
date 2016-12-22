@@ -10,7 +10,7 @@ With respect to the folders,
 * **datacollection** contains the application built in Objective-C used for datacollection
 * **preprocess** contains the OpenCV application built to preprocess the images
 * **report.pdf** is the final report written for the class
-* Moreover **pipeline.py** was used to train the models, while **data-final50000.txt** contains the final data. Lastly, the matlab file contains the image saliency map production.
+* Moreover **pipeline.py** was used to train the models, while **data-final50000.txt** contains the final data. Lastly, the matlab file contains the image saliency map production. Note that you will need SaliencyToolbox (couple of Mb, download at www.saliencytoolbox.net/) by Walter.
 
 In order to run the models run
 ```bash
