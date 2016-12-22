@@ -1,0 +1,306 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/constants.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/detect.cpp
+opencv2/objdetect/objdetect.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+queue
+-
+stdio.h
+-
+math.h
+-
+unistd.h
+-
+vector
+-
+detect.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/detect.h
+findEyeCenter.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/findEyeCenter.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/detect.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/findEyeCenter.cpp
+opencv2/objdetect/objdetect.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/imgproc/imgproc.hpp
+iostream
+-
+queue
+-
+stdio.h
+-
+constants.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/constants.h
+helpers.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/helpers.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/findEyeCenter.h
+opencv2/imgproc/imgproc.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/imgproc/imgproc.hpp
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/haar.cpp
+opencv2/objdetect/objdetect.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+haar.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/haar.h
+vector
+-
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/haar.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/helpers.cpp
+opencv2/objdetect/objdetect.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/opencv2/imgproc/imgproc.hpp
+iostream
+-
+queue
+-
+stdio.h
+-
+unordered_map
+-
+utility
+-
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/helpers.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/main.cpp
+opencv2/objdetect/objdetect.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+queue
+-
+stdio.h
+-
+math.h
+-
+sstream
+-
+fstream
+-
+unistd.h
+-
+vector
+-
+saliency.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/saliency.h
+findEyeCenter.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/findEyeCenter.h
+helpers.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/helpers.h
+detect.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/detect.h
+haar.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/haar.h
+maps.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/maps.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/maps.cpp
+opencv2/objdetect/objdetect.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+math.h
+-
+stdlib.h
+-
+fstream
+-
+vector
+-
+algorithm
+-
+helpers.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/helpers.h
+maps.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/maps.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/maps.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/saliency.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+vector
+-
+algorithm
+-
+limits
+-
+slic.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/slic.h
+saliency.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/saliency.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/saliency.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/slic.cpp
+cfloat
+-
+cmath
+-
+iostream
+-
+fstream
+-
+slic.h
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/slic.h
+
+/Users/Brinck/Documents/New York University Abu Dhabi/Courses/Cap Stone/Eye Tracking/preprocessing/src/slic.h
+vector
+-
+string
+-
+algorithm
+-
+
+/usr/local/include/opencv2/core/core.hpp
+opencv2/core/types_c.h
+/usr/local/include/opencv2/core/opencv2/core/types_c.h
+opencv2/core/version.hpp
+/usr/local/include/opencv2/core/opencv2/core/version.hpp
+limits.h
+-
+algorithm
+-
+cmath
+-
+cstddef
+-
+complex
+-
+map
+-
+new
+-
+string
+-
+vector
+-
+sstream
+-
+opencv2/core/operations.hpp
+/usr/local/include/opencv2/core/opencv2/core/operations.hpp
+opencv2/core/mat.hpp
+/usr/local/include/opencv2/core/opencv2/core/mat.hpp
+
+/usr/local/include/opencv2/core/core_c.h
+opencv2/core/types_c.h
+/usr/local/include/opencv2/core/opencv2/core/types_c.h
+
+/usr/local/include/opencv2/core/mat.hpp
+limits.h
+-
+string.h
+-
+
+/usr/local/include/opencv2/core/operations.hpp
+string.h
+-
+limits.h
+-
+ext/atomicity.h
+-
+bits/atomicity.h
+-
+limits
+-
+
+/usr/local/include/opencv2/core/types_c.h
+assert.h
+-
+stdlib.h
+-
+string.h
+-
+float.h
+-
+stdint.h
+-
+intrin.h
+-
+emmintrin.h
+-
+fastmath.h
+-
+math.h
+-
+ipl.h
+-
+ipl/ipl.h
+-
+tegra_round.hpp
+/usr/local/include/opencv2/core/tegra_round.hpp
+emmintrin.h
+/usr/local/include/opencv2/core/emmintrin.h
+
+/usr/local/include/opencv2/core/version.hpp
+
+/usr/local/include/opencv2/highgui/highgui.hpp
+opencv2/core/core.hpp
+/usr/local/include/opencv2/highgui/opencv2/core/core.hpp
+opencv2/highgui/highgui_c.h
+/usr/local/include/opencv2/highgui/opencv2/highgui/highgui_c.h
+
+/usr/local/include/opencv2/highgui/highgui_c.h
+opencv2/core/core_c.h
+/usr/local/include/opencv2/highgui/opencv2/core/core_c.h
+
+/usr/local/include/opencv2/imgproc/imgproc.hpp
+opencv2/core/core.hpp
+/usr/local/include/opencv2/imgproc/opencv2/core/core.hpp
+opencv2/imgproc/types_c.h
+/usr/local/include/opencv2/imgproc/opencv2/imgproc/types_c.h
+
+/usr/local/include/opencv2/imgproc/types_c.h
+opencv2/core/core_c.h
+/usr/local/include/opencv2/imgproc/opencv2/core/core_c.h
+
+/usr/local/include/opencv2/objdetect/objdetect.hpp
+opencv2/core/core.hpp
+/usr/local/include/opencv2/objdetect/opencv2/core/core.hpp
+map
+-
+deque
+-
+
