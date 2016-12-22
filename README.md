@@ -20,3 +20,5 @@ python pipeline.py data-final50000.txt 0 1
 in the terminal. 
 
 Any feedback is greatly appreciated.
+
+Frederik Jensen and Jovan Jovancevic
